@@ -32,5 +32,5 @@
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](www.linkedin.com/in/grimaldo-sanchez-571788231)
+- 💼 [LinkedIn](https://linkedin.com/in/grimaldo-sanchez)
 - ✉️ grima2001@gmail.com
