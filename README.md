@@ -16,7 +16,7 @@
 
 | Proyecto | Tecnologías | Demo |
 |---------|--------------|------|
-| Generador de Frases | React, Vite, CSS | [🔗 Ver](https://generador-de-frases.vercel.app) |
+| Generador de Frases | React, Vite, CSS | [🔗 Ver](https://generador-de-frases-blush.vercel.app/) |
 
 ---
 
